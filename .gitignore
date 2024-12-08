@@ -13,7 +13,6 @@ CMakeUserPresets.json
 
 *.o
 *.log
-*.txt
 
 build/
 .vscode/
